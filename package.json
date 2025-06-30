@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
-    "stop": "pm2 stop KHAN-MD",
-    "restart": "pm2 restart KHAN-MD"
+    "stop": "pm2 stop KINGDOM-MD",
+    "restart": "pm2 restart KINGDOM-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
