@@ -1,9 +1,9 @@
-# 𝗞𝗘𝗜𝗧𝗛-𝗠𝗗
+# KINGDOM-MD 👑
 
-<h1 align="center">My code works, but I have no idea why. Should I touch it?😏</h1>
+<h1 align="center">Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use kingdom bot is safe and better ✅👑</h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/XlQIFIF.jpeg" width="400" style="border-radius:10px">
+  <img src="https://files.catbox.moe/0kwukb.jpg" width="400" style="border-radius:10px">
 </div>
 
 ##  Quick Access
@@ -52,7 +52,7 @@
 <table align="center" cellpadding="10" style="border-radius:15px;background:#1a1a1a;border:none">
   <tr>
     <td align="center" style="border:none">
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/KEITH-MD&template=https://github.com/keithkeizzah/KEITH-MD.git">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/kingdommd/kingdom-md MD&template=https://github.com/keithkeizzah/KEITH-MD.git">
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="180">
       </a>
     </td>
