@@ -29,7 +29,7 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
     </td>
     <td align="center" style="border:none">
       <a href="https://github.com/keithkeizzah/KEITH-MD/archive/refs/heads/main.zip">
-        <img src="https://img.shields.io/badge/Download_ZIP-0078D4?style=for-the-badge&logo=windows&logoColor=white" width="200">
+        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="180">
       </a>
     </td>
   </tr>
