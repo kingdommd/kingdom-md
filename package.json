@@ -1,12 +1,12 @@
 {
-  "name": "KINGDOM-MD",
+  "name": "kingdom-md",
   "version": "4.5.0",
   "description": "A WhatsApp Bot Created By Kingdom md",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
-    "stop": "pm2 stop KINGDOM-MD",
-    "restart": "pm2 restart KINGDOM-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name kingdom-md",
+    "stop": "pm2 stop kingdom-md",
+    "restart": "pm2 restart kingdom-md"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
