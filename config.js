@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "IK~gS1H0IgC#cFJNktFVg6K0zvrhsBlcFG3w-sspn
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
@@ -35,7 +35,7 @@ BOT_NAME: process.env.BOT_NAME || "KINGDOM-MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "KINGDOM-MD",
 // type sticker pack name 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "false",
 // chose custom react emojis by yourself 
