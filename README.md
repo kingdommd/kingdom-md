@@ -1,6 +1,6 @@
 # KINGDOM-MD 👑
 
-<h1 align="center">Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use kingdom bot is safe and better ✅👑</h1>
+Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use kingdom bot is safe and better ✅👑</h1>
 
 <div align="center">
   <img src="https://files.catbox.moe/0kwukb.jpg" width="400" style="border-radius:10px">
@@ -85,12 +85,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="border:none" colspan="3">
-      <a href="https://bot-hosting.net/">
-        <img src="https://img.shields.io/badge/Bot_Hosting-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="300">
-      </a>
-    </td>
-  </tr>
-</table>
-
+# THIS BOT CREATED BY TANZANIA KINGDOM MD 👑
+*supported by prince tech
 
