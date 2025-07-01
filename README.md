@@ -47,7 +47,7 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
   </tr>
 </table>
 
-## Deployment 
+
 
 <table align="center" cellpadding="10" style="border-radius:15px;background:#1a1a1a;border:none">
   <tr>
@@ -88,5 +88,5 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
     
 # THIS BOT CREATED BY TANZANIA KINGDOM MD 👑
 
-##other deploment
+## other deploment
 
