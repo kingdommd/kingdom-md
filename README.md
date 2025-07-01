@@ -86,5 +86,5 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
   </tr>
   <tr>
 # THIS BOT CREATED BY TANZANIA KINGDOM MD 👑
-*supported by prince tech
+##other deploment
 
