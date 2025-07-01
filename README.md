@@ -16,7 +16,7 @@
       </a>
     </td>
     <td align="center" style="border:none">
-      <a href="https://www.youtube.com/@keithkeizzah">
+      <a href="https://www.youtube.com/@hazardbayana4999">
         <img src="https://img.shields.io/badge/Video_Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="200">
       </a>
     </td>
@@ -35,13 +35,13 @@
   </tr>
   <tr>
     <td align="center" style="border:none">
-      <a href="https://keith-site.vercel.app/contact">
+      <a href="https://wa.me/message/B67R2CEOSVXJK1">
         <img src="https://img.shields.io/badge/Contact_Us-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="200">
       </a>
     </td>
     <td align="center" style="border:none">
-      <a href="https://apis-keith.vercel.app/">
-        <img src="https://img.shields.io/badge/KEITH_APIs-000000?style=for-the-badge&logo=vercel&logoColor=white" width="200">
+      <a href="https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f">
+        <img src="https://img.shields.io/badge/VIEW_CHANNEL-000000?style=for-the-badge&logo=vercel&logoColor=white" width="200">
       </a>
     </td>
   </tr>
@@ -52,7 +52,7 @@
 <table align="center" cellpadding="10" style="border-radius:15px;background:#1a1a1a;border:none">
   <tr>
     <td align="center" style="border:none">
-      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/kingdommd/kingdom-md MD&template=https://github.com/keithkeizzah/KEITH-MD.git">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/kingdommd/kingdom-md- MD&template=https://github.com/kingdommd/kingdom-md.git">
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="180">
       </a>
     </td>
@@ -93,11 +93,4 @@
   </tr>
 </table>
 
-##  Termux Installation
-
-```bash
-git clone https://github.com/keithkeizzah/KEITH-MD.git
-cd KEITH-MD
-npm install
-npm start
 
