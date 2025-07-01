@@ -23,8 +23,8 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
   </tr>
   <tr>
     <td align="center" style="border:none">
-      <a href="https://keith-site.vercel.app/">
-        <img src="https://img.shields.io/badge/Visit_Site-181717?style=for-the-badge&logo=link&logoColor=white" width="200">
+      <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i?mode=r_c">
+        <img src="https://img.shields.io/badge/VIEW_GROUP-181717?style=for-the-badge&logo=link&logoColor=white" width="200">
       </a>
     </td>
     <td align="center" style="border:none">
