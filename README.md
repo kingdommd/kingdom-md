@@ -28,7 +28,7 @@ Welcome to kingdom md a Whatsapp bot created by kingdom md , now we're safe use 
       </a>
     </td>
     <td align="center" style="border:none">
-      <a href="https://github.com/keithkeizzah/KEITH-MD/archive/refs/heads/main.zip">
+      <a href="https://dashboard.heroku.com/new?button-url=https://github.com/kingdommd/kingdom-md- MD&template=https://github.com/kingdommd/kingdom-md.git">
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="180">
       </a>
     </td>
